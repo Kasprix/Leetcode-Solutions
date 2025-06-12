@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Kasprix/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/Kasprix/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Kasprix/Leetcode-Solutions/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/Kasprix/Leetcode-Solutions/tree/master/0626-exchange-seats) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Kasprix/Leetcode-Solutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/Kasprix/Leetcode-Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/Kasprix/Leetcode-Solutions/tree/master/1179-game-play-analysis-i) |
